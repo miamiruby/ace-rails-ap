@@ -1,5 +1,7 @@
 # ace-rails-ap
 
+[![Join the chat at https://gitter.im/miamiruby/ace-rails-ap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/miamiruby/ace-rails-ap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 The [Ajax.org Cloud9 Editor (Ace)](/ajaxorg/ace) for the Rails 3.1 asset 
 pipeline.
 
